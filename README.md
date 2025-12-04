@@ -107,11 +107,3 @@ Exemple de fichier `reseau_config.txt` :
 
 ---
 
-## 📝 Licence / License
-
-Distribué sous **MIT License**.
-
-
-
-Veux‑tu que je fasse ça ?
-```
